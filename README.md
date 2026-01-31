@@ -19,7 +19,13 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,html,css,git,github,mysql,azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=My+Tech+Stack;Technologies+I+Use;Tools+I+Work+With&center=true&width=400&height=45">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,html,css,git,github,azure" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 ---
